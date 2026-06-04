@@ -1,1 +1,4 @@
 # TASK-4-setup-new-rules-in-windows-linux-firewalls
+
+
+SETTING UP THE FIREWALL RULES FOR THE WINDOWS AS WELL AS THE LINUX SYSTEMS
